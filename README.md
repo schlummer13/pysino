@@ -1,4 +1,4 @@
-![Logo](pysino.png)
+![Logo](2.png)
 
 # pysino
 Simple TCP Client for Sinos MXPro in Python
